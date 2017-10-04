@@ -7,6 +7,8 @@ Move `accessmaplite-osrm-backend-scripts/` into root directory of osrm source co
 
 Move `profile.lua` into `profiles/` under the root directory.
 
+Move `ascii2osrm.py` into the root directory.
+
 ## Step 2: Get dependencies
 For more details please check out the osrm tutorial [here](https://github.com/Project-OSRM/osrm-backend/wiki/Building-OSRM)
 ### Mac OS
